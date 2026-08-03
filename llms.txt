@@ -1,0 +1,32 @@
+# احمد قاسم‌نیا — الف آرت استودیو (Alef Art Studio)
+
+> رزومه و نمونه‌کارهای احمد قاسم‌نیا، برنامه‌نویس، گرافیست و طراح وب. تمرکز روی
+> ساخت سایت‌های سریع و بهینه با نمرات بالای Google PageSpeed و Core Web Vitals.
+
+این سایت یک صفحه‌ی تک‌فایلی است: کل رزومه، نمونه‌کارها و نمرات اندازه‌گیری‌شده در
+`index.html` قرار دارد. تمام تصاویر، فونت و اسکریپت‌ها به‌صورت درون‌خطی (data URI)
+جاسازی شده‌اند، بنابراین هیچ منبع خارجی بارگذاری نمی‌شود.
+
+## صفحات
+
+- [رزومه و نمونه‌کارها](https://alef72.github.io/): صفحه‌ی اصلی شامل معرفی، مهارت‌ها، خدمات، نمونه‌کارها با نمرات Lighthouse، و راه‌های تماس.
+- [نقشه سایت](https://alef72.github.io/sitemap.xml): فهرست XML آدرس‌ها.
+- [robots.txt](https://alef72.github.io/robots.txt): قواعد خزش.
+
+## نمونه‌کارها
+
+- [آهن تودی](https://ahantoday.com/): مرجع قیمت و خرید آهن‌آلات.
+- [مانیس استیل](https://manissteel.com/): تأمین و صادرات لوله‌های بدون درز.
+- [فیدار فولاد ملل](https://fidarfooladmelal.ir/): بازرگانی فولاد.
+- [دکتر سمانه صدیقی](https://drsamanesedighi.pages.dev/): سایت شخصی روان‌شناس و روان‌درمانگر بالینی.
+- [الف بایو](https://alefbio.pages.dev/): معرفی محصولات زیستی.
+- [نگین کر](https://negincare.pages.dev/): خدمات شبانه‌روزی پرستاری و پزشکی در منزل، مشهد.
+- [داریا تجارت](https://dariatejarat.pages.dev/): بازرگانی و صادرات.
+- [فروتیتی](https://fruititi.pages.dev/): صادرات میوه و سبزیجات.
+- [کاویار بلو دایموند](https://caviar.pages.dev/): فروشگاه خاویار.
+
+## تماس
+
+- [ایمیل](mailto:ahmadghassemnia@gmail.com): ahmadghassemnia@gmail.com
+- [تلگرام](https://t.me/AhmadGhasemnia): @AhmadGhasemnia
+- [اینستاگرام](https://instagram.com/__.alef._): ‎__.alef._
